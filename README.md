@@ -19,13 +19,7 @@ You can reach me by
 - LinkedIn: 
 - PayPal: ❤️ Buy me a coffee or tea.
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/douxxyy/douxxyy/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/douxxyy/douxxyy/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://github.com/douxxyy/douxxyy/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
+[![GitHub Snake Light](https://raw.githubusercontent.com/douxxyy/douxxyy/output/github-contribution-grid-snake.svg)](https://github.com/douxxyy)
 
 <details>
 <summary>😎 View my contributions in 3D</summary>
