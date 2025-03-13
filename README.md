@@ -25,8 +25,8 @@ You can reach me by
 <summary>😎 View my contributions in 3D</summary>
 
 
-![](./profile-3d-contrib//profile-gitblock.svg#gh-light-mode-only)
-![](./profile-3d-contrib/profile-night-rainbow.svg.svg#gh-dark-mode-only)
+![](./profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only)
+![](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
 
 </details>
 
