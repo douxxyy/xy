@@ -24,8 +24,9 @@ You can reach me by
 <details>
 <summary>😎 View my contributions in 3D</summary>
 
-![](https://raw.githubusercontent.com/sy-records/sy-records/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/sy-records/sy-records/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
+![](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
+![](./profile-3d-contrib/profile-3d-contrib/profile-south-season-animate.svg#gh-dark-mode-only)
 
 </details>
 
