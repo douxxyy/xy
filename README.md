@@ -5,6 +5,7 @@
 
 🎉 Welcome to my GitHub profile, it's great to meet you here!
 
+![douxxyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=douxxyy)
 
 
 #### 💌 How to reach out to me
