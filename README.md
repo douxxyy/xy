@@ -26,8 +26,9 @@ You can reach me by
 
 
 [![](./profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only)](https://github.com/douxxyy)
-[![](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)](https://github.com/douxxyy)
-
+<!--
+![](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
+-->
 </details>
 
 <!--
