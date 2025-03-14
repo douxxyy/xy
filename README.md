@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<a href="https://github.com/sy-records"><img src="https://raw.githubusercontent.com/sy-records/staticfile/master/images/202007/huaji.gif" align="right" height="150"></a>
+<a href="https://github.com/douxxyy"><img src="img/image.png" align="right" height="450"></a>
 
 🎉 Welcome to my GitHub profile, it's great to meet you here!
 
